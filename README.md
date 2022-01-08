@@ -1,3 +1,3 @@
 # Demo 
 
-Learning git for intensively
+Learning git more intensively
